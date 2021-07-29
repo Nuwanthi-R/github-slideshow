@@ -1,6 +1,5 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+"Welcome to our second slide!"
 --
-"Life is about facing new challenges"
-Use the left arrow to go back!
+"Life is about facing new challenges" <br>
+  Use the left arrow to go back!
